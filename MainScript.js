@@ -37,8 +37,8 @@ console.log("PI: " + PI);
 
 // using camelCase is the most common way of naming variables
 
-var firstName = "Dylan";
-var lastName = "Ravka";
+var firstName = "Abdul";
+var lastName = "Khan";
 
 let fullName = firstName + " " + lastName;
 
