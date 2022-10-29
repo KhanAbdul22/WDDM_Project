@@ -47,7 +47,6 @@ console.log("Full Name " + fullName);
 
 console.log("X: " + x + "\n" + "Y: " + y + "\n" + "Z: " + z);
 
-console.log("this is" + " a " + "combined string with an integer: " + z);
 
 let incrementNum = 0;
 
